@@ -1,4 +1,5 @@
 # baseURL = "http://example.org/"
+baseURL = "https://hubcrawl.netlify.app/"
 languageCode = "en-us"
 title = "알골리아 크롤러 테스트 1547"
 theme = "ananke"
