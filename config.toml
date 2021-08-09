@@ -1,6 +1,6 @@
-baseURL = "http://example.org/"
+# baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "알골리아 크롤러 테스트 1357"
+title = "알골리아 크롤러 테스트 1547"
 theme = "ananke"
 
 resourceDir = "../resources"
@@ -13,11 +13,11 @@ enableRobotsTXT = true
 
 [languages]
   [languages.en]
-    title = "engLish -> My blog"
+    title = "engLish 1547 My blog"
     weight = 1
     contentDir = "content/en"
   [languages.fr]
-    title = "french :: Mon blogue"
+    title = "french :1547: Mon blogue"
     weight = 2
     contentDir = "content/fr"
 
