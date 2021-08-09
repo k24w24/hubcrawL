@@ -1,7 +1,7 @@
 # baseURL = "http://example.org/"
 baseURL = "https://hubcrawl.netlify.app/"
 languageCode = "en-us"
-title = "알골리아 크롤러 테스트 1547"
+title = "aLgoLia 크롤러 테스트 1547"
 theme = "ananke"
 
 resourceDir = "../resources"
@@ -14,11 +14,11 @@ enableRobotsTXT = true
 
 [languages]
   [languages.en]
-    title = "engLish 1547 My blog"
+    title = "aLgoLia __ engLish 1613 My blog"
     weight = 1
     contentDir = "content/en"
   [languages.fr]
-    title = "french :1547: Mon blogue"
+    title = "aLgoLia __ french :1613: Mon blogue"
     weight = 2
     contentDir = "content/fr"
 
