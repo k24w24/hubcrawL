@@ -1,9 +1,9 @@
 ---
-date: 2017-04-14T11:25:05-04:00
-description: " 을을을Esmeralda을을을 "
-featured_image: "/images/esmeralda.jpg"
+date: 2017-04-11T11:13:32-04:00
+description: "Monsieur the Cardinal"
+featured_image: ""
 tags: []
-title: "Chapter VI: Esmeralda"
+title: "챕6 from 챕3 : Monsieur the Cardinal"
 ---
 
 We are delighted to be able to inform the reader, that during the whole of
