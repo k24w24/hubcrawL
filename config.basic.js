@@ -5,7 +5,7 @@ module.exports = {
   apiKey: '81c994d22ed4113675e98525c47266cc',
   rateLimit: 2,
   schedule: 'at 12:00 am',
-  startUrls: ['https://hubcrawl.netlify.app/post'],
+  startUrls: ['https://hubcrawl.netlify.app/post/chapter-6/'],
   actions: [
     {
       indexName: 'crawler-example',
