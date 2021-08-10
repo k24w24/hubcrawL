@@ -1,90 +1,99 @@
 ---
-date: 2017-04-10T11:00:59-04:00
-description: "Pierre Gringoire"
-featured_image: ""
+date: 2017-04-14T11:25:05-04:00
+description: "Esmeralda"
+featured_image: "/images/esmeralda.jpg"
 tags: []
-title: "챕터6 : 에스메랄다 Chapter II: Pierre Gringoire"
+title: "Chapter VI: Esmeralda"
+disable_share: false
 ---
+We are delighted to be able to inform the reader, that during the whole of
+this scene, Gringoire and his piece had stood firm. His actors, spurred on
+by him, had not ceased to spout his comedy, and he had not ceased to
+listen to it. He had made up his mind about the tumult, and was determined
+to proceed to the end, not giving up the hope of a return of attention on
+the part of the public. This gleam of hope acquired fresh life, when he
+saw Quasimodo, Coppenole, and the deafening escort of the pope of the
+procession of fools quit the hall amid great uproar. The throng rushed
+eagerly after them. “Good,” he said to himself, “there go all the
+mischief-makers.” Unfortunately, all the mischief-makers constituted the
+entire audience. In the twinkling of an eye, the grand hall was empty.
 
-Nevertheless, as be harangued them, the satisfaction and admiration
-unanimously excited by his costume were dissipated by his words; and when
-he reached that untoward conclusion: “As soon as his illustrious eminence,
-the cardinal, arrives, we will begin,” his voice was drowned in a thunder
-of hooting.
+To tell the truth, a few spectators still remained, some scattered, others
+in groups around the pillars, women, old men, or children, who had had
+enough of the uproar and tumult. Some scholars were still perched astride
+of the window-sills, engaged in gazing into the Place.
 
-“Begin instantly! The mystery! the mystery immediately!” shrieked the
-people. And above all the voices, that of Johannes de Molendino was
-audible, piercing the uproar like the fife’s derisive serenade: “Commence
-instantly!” yelped the scholar.
+“Well,” thought Gringoire, “here are still as many as are required to hear
+the end of my mystery. They are few in number, but it is a choice
+audience, a lettered audience.”
 
-“Down with Jupiter and the Cardinal de Bourbon!” vociferated Robin
-Poussepain and the other clerks perched in the window.
+An instant later, a symphony which had been intended to produce the
+greatest effect on the arrival of the Virgin, was lacking. Gringoire
+perceived that his music had been carried off by the procession of the
+Pope of the Fools. “Skip it,” said he, stoically.
 
-“The morality this very instant!” repeated the crowd; “this very instant!
-the sack and the rope for the comedians, and the cardinal!”
+He approached a group of bourgeois, who seemed to him to be discussing his
+piece. This is the fragment of conversation which he caught,—
 
-Poor Jupiter, haggard, frightened, pale beneath his rouge, dropped his
-thunderbolt, took his cap in his hand; then he bowed and trembled and
-stammered: “His eminence—the ambassadors—Madame Marguerite of
-Flanders—.” He did not know what to say. In truth, he was afraid of
-being hung.
+“You know, Master Cheneteau, the Hôtel de Navarre, which belonged to
+Monsieur de Nemours?”
 
-Hung by the populace for waiting, hung by the cardinal for not having
-waited, he saw between the two dilemmas only an abyss; that is to say, a
-gallows.
+“Yes, opposite the Chapelle de Braque.”
 
-Luckily, some one came to rescue him from his embarrassment, and assume
-the responsibility.
+“Well, the treasury has just let it to Guillaume Alixandre, historian, for
+six hivres, eight sols, parisian, a year.”
 
-An individual who was standing beyond the railing, in the free space
-around the marble table, and whom no one had yet caught sight of, since
-his long, thin body was completely sheltered from every visual ray by the
-diameter of the pillar against which he was leaning; this individual, we
-say, tall, gaunt, pallid, blond, still young, although already wrinkled
-about the brow and cheeks, with brilliant eyes and a smiling mouth, clad
-in garments of black serge, worn and shining with age, approached the
-marble table, and made a sign to the poor sufferer. But the other was so
-confused that he did not see him. The new comer advanced another step.
+“How rents are going up!”
 
-“Jupiter,” said he, “my dear Jupiter!”
+“Come,” said Gringoire to himself, with a sigh, “the others are
+listening.”
 
-The other did not hear.
+“Comrades,” suddenly shouted one of the young scamps from the window, “La
+Esmeralda! La Esmeralda in the Place!”
 
-At last, the tall blond, driven out of patience, shrieked almost in his
-face,—
+This word produced a magical effect. Every one who was left in the hall
+flew to the windows, climbing the walls in order to see, and repeating,
+“La Esmeralda! La Esmeralda?” At the same time, a great sound of applause
+was heard from without.
 
-“Michel Giborne!”
+“What’s the meaning of this, of the Esmeralda?” said Gringoire, wringing
+his hands in despair. “Ah, good heavens! it seems to be the turn of the
+windows now.”
 
-“Who calls me?” said Jupiter, as though awakened with a start.
+He returned towards the marble table, and saw that the representation had
+been interrupted. It was precisely at the instant when Jupiter should have
+appeared with his thunder. But Jupiter was standing motionless at the foot
+of the stage.
 
-“I,” replied the person clad in black.
+“Michel Giborne!” cried the irritated poet, “what are you doing there? Is
+that your part? Come up!”
 
-“Ah!” said Jupiter.
+“Alas!” said Jupiter, “a scholar has just seized the ladder.”
 
-“Begin at once,” went on the other. “Satisfy the populace; I undertake to
-appease the bailiff, who will appease monsieur the cardinal.”
+Gringoire looked. It was but too true. All communication between his plot
+and its solution was intercepted.
 
-Jupiter breathed once more.
+“The rascal,” he murmured. “And why did he take that ladder?”
 
-“Messeigneurs the bourgeois,” he cried, at the top of his lungs to the
-crowd, which continued to hoot him, “we are going to begin at once.”
+“In order to go and see the Esmeralda,” replied Jupiter piteously. “He
+said, ‘Come, here’s a ladder that’s of no use!’ and he took it.”
 
-“_Evoe Jupiter! Plaudite cives_! All hail, Jupiter! Applaud,
-citizens!” shouted the scholars.
+This was the last blow. Gringoire received it with resignation.
 
-“Noel! Noel! good, good,” shouted the people.
+“May the devil fly away with you!” he said to the comedian, “and if I get
+my pay, you shall receive yours.”
 
-The hand clapping was deafening, and Jupiter had already withdrawn under
-his tapestry, while the hall still trembled with acclamations.
+Then he beat a retreat, with drooping head, but the last in the field,
+like a general who has fought well.
 
-In the meanwhile, the personage who had so magically turned the tempest
-into dead calm, as our old and dear Corneille puts it, had modestly
-retreated to the half-shadow of his pillar, and would, no doubt, have
-remained invisible there, motionless, and mute as before, had he not been
-plucked by the sleeve by two young women, who, standing in the front row
-of the spectators, had noticed his colloquy with Michel Giborne-Jupiter.
-
-“Master,” said one of them, making him a sign to approach. “Hold your
-tongue, my dear Liénarde,” said her neighbor, pretty, fresh, and very
-brave, in consequence of being dressed up in her best attire. “He is not a
-clerk, he is a layman; you must not say master to him, but messire.”
+And as he descended the winding stairs of the courts: “A fine rabble of
+asses and dolts these Parisians!” he muttered between his teeth; “they
+come to hear a mystery and don’t listen to it at all! They are engrossed
+by every one, by Chopin Trouillefou, by the cardinal, by Coppenole, by
+Quasimodo, by the devil! but by Madame the Virgin Mary, not at all. If I
+had known, I’d have given you Virgin Mary; you ninnies! And I! to come to
+see faces and behold only backs! to be a poet, and to reap the success of
+an apothecary! It is true that Homerus begged through the Greek towns, and
+that Naso died in exile among the Muscovites. But may the devil flay me if
+I understand what they mean with their Esmeralda! What is that word, in
+the first place?—‘tis Egyptian!”
