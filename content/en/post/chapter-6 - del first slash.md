@@ -1,7 +1,7 @@
 ---
 date: 2017-04-14T11:25:05-04:00
 description: "피처드 이미지에서 슬래시 제거 Esmeralda"
-featured_image: "esmeralda.jpg"
+featured_image: "images/esmeralda.jpg"
 tags: []
 title: "Chapter VI: Esmeralda"
 disable_share: false
